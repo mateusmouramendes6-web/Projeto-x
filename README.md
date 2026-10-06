@@ -1,5 +1,4 @@
 # Projeto-x
-
 -- ADMIN MODE
 -- Coloque em ServerScriptService
 
